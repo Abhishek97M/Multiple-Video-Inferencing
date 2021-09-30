@@ -4,21 +4,21 @@
 
 ## Installation for running demo on Windows 10:
 
-### 1.Install GPU Drivers : https://nvidia.custhelp.com/app/answers/detail/a_id/2900/~/installing-nvidia-display-drivers-under-windows-7%2C-windows-8%2C-or-windows-10
-### 2.Install Cuda Toolkit 10.1 : https://developer.nvidia.com/cuda-10.1-download-archive-base?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exelocal
-### 3.Install Cudnn : https://developer.nvidia.com/compute/machine-learning/cudnn/secure/8.0.5/10.1_20201106/cudnn-10.1-windows10-x64-v8.0.5.39.zip
-### 4.cd into project directory
-### 5.pip install -r requirements.txt
-### 6.Install pytorch : pip3 install torch==1.7.1+cu101 torchvision==0.8.1+cu101 -f https://download.pytorch.org/whl/torch_stable.html
+##### 1.Install GPU Drivers : https://nvidia.custhelp.com/app/answers/detail/a_id/2900/~/installing-nvidia-display-drivers-under-windows-7%2C-windows-8%2C-or-windows-10
+##### 2.Install Cuda Toolkit 10.1 : https://developer.nvidia.com/cuda-10.1-download-archive-base?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exelocal
+##### 3.Install Cudnn : https://developer.nvidia.com/compute/machine-learning/cudnn/secure/8.0.5/10.1_20201106/cudnn-10.1-windows10-x64-v8.0.5.39.zip
+##### 4.cd into project directory
+##### 5.pip install -r requirements.txt
+##### 6.Install pytorch : pip3 install torch==1.7.1+cu101 torchvision==0.8.1+cu101 -f https://download.pytorch.org/whl/torch_stable.html
 
 ## Installation for running demo on Linux:
 
-### 1.Install GPU Drivers : https://www.cyberciti.biz/faq/ubuntu-linux-install-nvidia-driver-latest-proprietary-driver/
-### 2.Install Cuda Toolkit 10.1 : https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html
-### 3.Install Cudnn : https://developer.nvidia.com/rdp/cudnn-archive
-### 4.cd into project directory
-### 5.pip3 install -r requirements.txt
-### 6.Install pytorch : pip3 install torch==1.7.1+cu101 torchvision==0.8.1+cu101 -f https://download.pytorch.org/whl/torch_stable.html
+##### 1.Install GPU Drivers : https://www.cyberciti.biz/faq/ubuntu-linux-install-nvidia-driver-latest-proprietary-driver/
+##### 2.Install Cuda Toolkit 10.1 : https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html
+##### 3.Install Cudnn : https://developer.nvidia.com/rdp/cudnn-archive
+##### 4.cd into project directory
+##### 5.pip3 install -r requirements.txt
+##### 6.Install pytorch : pip3 install torch==1.7.1+cu101 torchvision==0.8.1+cu101 -f https://download.pytorch.org/whl/torch_stable.html
 
 # Pipeline for Multiple Video Inferencing with batch size of 4
 
