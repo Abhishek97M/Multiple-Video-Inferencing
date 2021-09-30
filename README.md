@@ -42,3 +42,7 @@ with the main pipeline mentioned above.
 has Inference Request of 2 and a batch of 2 images from different input streams at
 once.
 ```
+# RESULTS (On my Poor system BTW) : 
+## 1 Video inference with single model request and batch size of 1(demo(4 video).py) -  10 FPS 
+## 4 Video inference with single model request and batch size of 4(demo(1 video).py) - 10 FPS 
+## 4 Video inference with 2 model requests and batch size of 2 on single model request(demo(IR=2).py) - 8 FPS
