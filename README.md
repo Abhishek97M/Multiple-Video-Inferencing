@@ -43,9 +43,9 @@ has Inference Request of 2 and a batch of 2 images from different input streams 
 once.
 ```
 # RESULTS (On my Poor system BTW) : 
-## 1 Video inference with single model request and batch size of 1(demo(4 video).py) -  10 FPS 
-## 4 Video inference with single model request and batch size of 4(demo(1 video).py) - 10 FPS 
-## 4 Video inference with 2 model requests and batch size of 2 on single model request(demo(IR=2).py) - 8 FPS
+#### 1 Video inference with single model request and batch size of 1(demo(4 video).py) -  10 FPS 
+#### 4 Video inference with single model request and batch size of 4(demo(1 video).py) - 10 FPS 
+#### 4 Video inference with 2 model requests and batch size of 2 on single model request(demo(IR=2).py) - 8 FPS
 
 # Video output for 4 video inference with Batch size of 4 frame
 
