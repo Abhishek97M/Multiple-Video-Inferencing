@@ -2,7 +2,7 @@
 
 >This is a POC to show how NVIDIA DEEPSTREAM SDK / TRITON Inference server works in the background.
 
-## Installation for running demo on Windows 10:
+## Installation for running demo:
 
 ##### 1.Install GPU Drivers : https://nvidia.custhelp.com/app/answers/detail/a_id/2900/~/installing-nvidia-display-drivers-under-windows-7%2C-windows-8%2C-or-windows-10
 ##### 2.Install Cuda Toolkit 10.1 : https://developer.nvidia.com/cuda-10.1-download-archive-base?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exelocal
