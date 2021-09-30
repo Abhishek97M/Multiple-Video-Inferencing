@@ -46,3 +46,7 @@ once.
 ## 1 Video inference with single model request and batch size of 1(demo(4 video).py) -  10 FPS 
 ## 4 Video inference with single model request and batch size of 4(demo(1 video).py) - 10 FPS 
 ## 4 Video inference with 2 model requests and batch size of 2 on single model request(demo(IR=2).py) - 8 FPS
+
+# Video ouptput for 4 video inference with Batch size of 4 frame
+
+Link to video demonstartion [video_link](https://www.youtube.com/watch?v=1IkxCkca3HI)
